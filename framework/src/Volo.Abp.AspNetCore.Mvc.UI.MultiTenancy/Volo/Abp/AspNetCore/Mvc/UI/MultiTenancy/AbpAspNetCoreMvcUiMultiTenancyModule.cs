@@ -55,5 +55,7 @@ public class AbpAspNetCoreMvcUiMultiTenancyModule : AbpModule
                     "/Pages/Abp/MultiTenancy/tenant-switch.js"
                 );
         });
+
+        var word = "hello";
     }
 }
